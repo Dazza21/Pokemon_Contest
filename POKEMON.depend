@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530469622 source:c:\users\sd\codeblocks\documents\pokemon\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1531679307 source:c:\users\sd\codeblocks\documents\pokemon\main2.cpp
+	<iostream>
+
